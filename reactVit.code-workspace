@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "reactVit",
+		"path": "../reactVit"
+	},
+	{
+		"name": "vs",
+		"path": "../../../../xampp/htdocs/vs"
+	},
+	{
+		"name": "react JS app",
+		"path": "../../../../NODE/react JS app"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react JS app"
+  }
+}
