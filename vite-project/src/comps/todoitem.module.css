@@ -26,3 +26,7 @@
   border-radius: 4px;
   cursor: pointer; 
 }
+
+.complated{
+  text-decoration: line-through;
+}
